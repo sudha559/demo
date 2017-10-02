@@ -76,6 +76,7 @@ public class LoginStep extends BaseUtil{
         public User(String userName, String passWord) {
             username= userName;
             password = passWord;
+            
         }
     }
 
